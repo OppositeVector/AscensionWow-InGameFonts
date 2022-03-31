@@ -1,0 +1,15 @@
+## Interface: 40000
+## Title: InGameFonts
+## DefaultState: Enabled
+## Author: OppositeVector
+## Version: 0.0.1
+## Notes: Change fonts for in game UI
+## SavedVariables: InGameFontsDB
+## OptionalDeps: Ace3, LibSharedMedia-3.0
+## X-Embeds: Ace3, LibSharedMedia-3.0
+## X-Category: Misc
+
+embeds.xml
+
+Collection.lua
+InGameFonts.lua 
