@@ -112,7 +112,7 @@ end
 function InGameFonts:ApplyStandardFont()
 	local font = sharedFonts[self.db.profile.stdFont];
 	if font then
-		STANDARD_TEXT_FONT = font;
+		-- STANDARD_TEXT_FONT = font;
 		-- print("Changed standard font to " .. font)
 	end
 end
