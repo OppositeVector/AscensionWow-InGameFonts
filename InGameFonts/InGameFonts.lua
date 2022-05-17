@@ -53,7 +53,7 @@ local options ={
 			type = "select",
 			name = "Standard Text Font",
 			order = 10,
-			desc = "No idea what this does yet",
+			desc = "Changes the fonts any place where a font was not specifically set, disabled as it caused a disconnect when opening the character advancement panel",
 			dialogControl = "LSM30_Font",
 			values = fontOptions
 		},
